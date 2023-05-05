@@ -1,3 +1,4 @@
+<img width="471" alt="2023-05-05 (7)" src="https://user-images.githubusercontent.com/109465506/236409216-f950ff91-b9af-4b55-891a-67051c523648.png">
 
 In this project, we will develop and evaluate the performance and the predictive power of a model trained and tested on data collected from houses in Boston’s suburbs.
 
